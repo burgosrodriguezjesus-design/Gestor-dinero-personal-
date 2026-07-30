@@ -1,0 +1,17 @@
+{
+  "name": "Mi Cuaderno · Finanzas personales",
+  "short_name": "Mi Cuaderno",
+  "description": "Cuaderno financiero personal: registra ingresos y gastos a mano, controla presupuestos y objetivos de ahorro, sin conexión a bancos.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f2",
+  "theme_color": "#2f6f4e",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
